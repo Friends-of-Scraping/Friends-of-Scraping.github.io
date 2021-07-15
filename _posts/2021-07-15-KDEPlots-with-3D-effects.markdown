@@ -1,3 +1,6 @@
-# This is our first blog post.
+---
+title: "First Blog Post"
+layout: post
+---
 
-![Image](../images/Example1.png)
+![Image](https://Friends-of-Scraping.github.io/images/Example1.png)
