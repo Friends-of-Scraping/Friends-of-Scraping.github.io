@@ -21,7 +21,7 @@
 title: "Hello from the other side, Earthlings....We are FoS."
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
-This houses blog posts, visualizations and articles.
+"This houses blog posts, visualizations and articles."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
