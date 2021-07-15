@@ -25,7 +25,6 @@ for i in range(len(lines)):
         x = np.where(x>100,100,np.where(x<0,0,x))
         y = v[:,1]
         y = np.where(y>100,100,np.where(y<0,0,y))
-        # pitch.plot(x,y,ax=ax,color=vars(lines[i])['_edgecolors'][0],zorder=j+1)
         pitch.plot(x,y,ax=ax,color='w',lw='5',zorder=i)
         for k in range(5):
             xshift = x-(k+1)/10
